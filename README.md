@@ -1,7 +1,6 @@
 Static-Shield / htaccess-ip-guard (IPSentinel)
 A lightweight, zero-database Website Firewall and IP restriction framework designed specifically for static HTML5 websites running on Apache servers.
 
-Ideas by sandeepthakur
 Overview
 htaccess-ip-guard (also known as IPSentinel or Static-Shield) acts as an edge gate deploy solution for legacy or static infrastructure. It intercepts incoming HTTP traffic, evaluates visitor IP addresses against a plain-text configuration file (restricted_ips.txt), and prompts restricted networks with an HTML5 static gatekeeper verification form. Once authenticated, visitors are issued a secure 30-day session cookie for seamless browsing.
 
