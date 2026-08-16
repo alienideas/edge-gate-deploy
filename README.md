@@ -36,7 +36,7 @@ verify.php — Validates passcodes and sets the secure bypass cookie.
 restricted_ips.txt — Whitelist/blacklist control file for IP rules.
 
 Quick Start & Installation
-Upload: Upload your deployment script (e.g., setup-ip-restriction.php or install-ip-gate.php) to your website's public root directory (e.g., public_html/ or www/).
+Upload: Upload your deployment script (e.g., deploy.php or install-ip-gate.php) to your website's public root directory (e.g., public_html/ or www/).
 
 Execute: Run the installer via your browser:
 
